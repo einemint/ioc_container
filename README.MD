@@ -1,6 +1,6 @@
 # IoC Container realization
 
-This project is an analogue of Spring Framework and a demonstration of the principles IoC and DI.
+The project is an analogue of Spring Framework and a demonstration of the principles IoC and DI.
 
 ## Built with
 
